@@ -40,4 +40,6 @@ Thumbs.db
 
 /module-2/.angular/*
 module-2/.angular/*
+module-2/.angular/cache/16.2.12/angular-webpack
+
 .angular/*
