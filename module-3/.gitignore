@@ -37,3 +37,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+/module-3/.angular/*
+module-3/.angular/*
+module-3/.angular/cache/16.2.13/*
